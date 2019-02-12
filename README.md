@@ -1,3 +1,5 @@
 Planeter
 
 Uranus
+mars
+neptun
